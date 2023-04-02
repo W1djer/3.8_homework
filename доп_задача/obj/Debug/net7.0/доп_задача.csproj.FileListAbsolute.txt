@@ -1,0 +1,15 @@
+E:\Geekbrains\3.8\доп_задача\bin\Debug\net7.0\доп_задача.exe
+E:\Geekbrains\3.8\доп_задача\bin\Debug\net7.0\доп_задача.deps.json
+E:\Geekbrains\3.8\доп_задача\bin\Debug\net7.0\доп_задача.runtimeconfig.json
+E:\Geekbrains\3.8\доп_задача\bin\Debug\net7.0\доп_задача.dll
+E:\Geekbrains\3.8\доп_задача\bin\Debug\net7.0\доп_задача.pdb
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.csproj.AssemblyReference.cache
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.AssemblyInfoInputs.cache
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.AssemblyInfo.cs
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.csproj.CoreCompileInputs.cache
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.dll
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\refint\доп_задача.dll
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.pdb
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\доп_задача.genruntimeconfig.cache
+E:\Geekbrains\3.8\доп_задача\obj\Debug\net7.0\ref\доп_задача.dll
